@@ -46,21 +46,21 @@
 
 ---
 ### LSG 과녁 부분 HW 구성도
-![](https://github.com/zbumjin97/Laser_Shooting_Game/blob/main/LSG_targetHW.jpg)
+![](https://github.com/genie-earth/Laser_Shooting_Game/blob/main/LSG_targetHW.jpg)
 ### LSG 총 부분 HW 구성도
-![](https://github.com/zbumjin97/Laser_Shooting_Game/blob/main/LSG_gunHW.jpg)
+![](https://github.com/genie-earth/Laser_Shooting_Game/blob/main/LSG_gunHW.jpg)
 ### LSG 과녁 부분 SW 구성도
-![](https://github.com/zbumjin97/Laser_Shooting_Game/blob/main/LSG_targetSW.jpg)
+![](https://github.com/genie-earth/Laser_Shooting_Game/blob/main/LSG_targetSW.jpg)
 ### LSG 총 부분 SW 구성도
-![](https://github.com/zbumjin97/Laser_Shooting_Game/blob/main/LSG_gunSW.jpg)
+![](https://github.com/genie-earth/Laser_Shooting_Game/blob/main/LSG_gunSW.jpg)
 
 
 ---
 ### LSG 총 부분 모델링
-![](https://github.com/zbumjin97/Laser_Shooting_Game/blob/main/LSG_gun_3D.jpg)
+![](https://github.com/genie-earth/Laser_Shooting_Game/blob/main/LSG_gun_3D.jpg)
 ### LSG 총 부분 ATmega328P 회로
-![](https://github.com/zbumjin97/Laser_Shooting_Game/blob/main/LSG_gun_circuit.jpg)
+![](https://github.com/genie-earth/Laser_Shooting_Game/blob/main/LSG_gun_circuit.jpg)
 ### LSG 과녁 부분 ATmega128A 회로
-![](https://github.com/zbumjin97/Laser_Shooting_Game/blob/main/LSG_target_circuit.jpg)
-### [LSG 구현 영상](https://github.com/zbumjin97/Laser_Shooting_Game/blob/main/LSG_video.mp4)
+![](https://github.com/genie-earth/Laser_Shooting_Game/blob/main/LSG_target_circuit.jpg)
+### [LSG 구현 영상](https://github.com/genie-earth/Laser_Shooting_Game/blob/main/LSG_video.mp4)
 * 영상이 다소 길어 다운로드 링크로 연결됩니다.
